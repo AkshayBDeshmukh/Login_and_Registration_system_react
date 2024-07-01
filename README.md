@@ -13,13 +13,18 @@ than : javaScript
 npm install 
 
 npm install bootstrap axios react-router-dom
+
 namp run dev
 
 # New Terminal
 
 create folder name is : Server
+
 cd server
+
 npm init -y
+
 cls
+
 npm install express mongoose cors nodemon 
 
