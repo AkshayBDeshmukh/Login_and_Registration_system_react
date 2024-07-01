@@ -28,3 +28,8 @@ cls
 
 npm install express mongoose cors nodemon 
 
+![2](https://github.com/AkshayBDeshmukh/Login_and_Registration_system_react/assets/114093342/b9d1d07e-6241-4686-bca6-841d2feb0574)
+
+
+
+![app](https://github.com/AkshayBDeshmukh/Login_and_Registration_system_react/assets/114093342/53d3abd0-9e55-4107-8bee-7339867f7f7e)
